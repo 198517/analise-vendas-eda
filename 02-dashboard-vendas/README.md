@@ -85,17 +85,23 @@ pandas==2.0.0
 plotly==5.17.0
 numpy==1.24.0
 ```
-
 ## 📸 Screenshots
 
 ### Dashboard Principal
-![Dashboard](images/dashboard_main.png)
+![Dashboard Principal](screenshots/dashboard-principal.png)
+*Visão geral do dashboard com métricas principais*
 
 ### Análise por Região
-![Região](images/dashboard_region.png)
+![Análise Regional](screenshots/analise-regiao.png)
+*Distribuição de vendas por região geográfica*
 
 ### Tendências Temporais
-![Tendências](images/dashboard_trends.png)
+![Tendências](screenshots/tendencias-temporais.png)
+*Evolução das vendas ao longo do tempo*
+
+### Filtros Interativos
+![Filtros](screenshots/filtros-interativos.png)
+*Interface de filtros para análise personalizada*
 
 ## 🎓 Aprendizados
 
@@ -147,3 +153,4 @@ Este projeto está sob a licença MIT.
 ---
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
+
