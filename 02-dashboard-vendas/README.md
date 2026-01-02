@@ -87,6 +87,8 @@ numpy==1.24.0
 ```
 ## 📸 Screenshots
 
+https://02-dashboard-vendas-qcuqovvrcyycvw4nhrwfwk.streamlit.app/
+
 ### Dashboard Principal
 ![Dashboard Principal](screenshots/dashboard-principal.png)
 *Visão geral do dashboard com métricas principais*
@@ -153,6 +155,7 @@ Este projeto está sob a licença MIT.
 ---
 
 ⭐ Se este projeto foi útil para você, considere dar uma estrela!
+
 
 
 
